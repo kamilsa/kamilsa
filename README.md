@@ -3,9 +3,10 @@
 
 
 
-## I'm a Husband, Father, Developer, and Manager!!
+## I'm a Blockchain Developer and Project Manager!!
 
 <!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
+– ⚙ My main project now is [Kagome]([Kagome](github.com/soramitsu/kagome)) – C++ Polkadot Host implementation
 - 🌱 I’m currently learning Rust 🤣
 - 👯 I’m looking to collaborate with other blockchain developers
 - 🥅 2022 Goals: Learn more about Rust, L2, Rollups, Blockchain Sharding. Release [Kagome](github.com/soramitsu/kagome)
