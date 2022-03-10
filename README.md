@@ -5,13 +5,12 @@
 
 ## I'm a Blockchain Developer and Project Manager!!
 
-<!-- - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]! -->
 – ⚙ My main project now is [Kagome]([Kagome](github.com/soramitsu/kagome)) – C++ Polkadot Host implementation
 - 🌱 I’m currently learning Rust 🤣
 - 👯 I’m looking to collaborate with other blockchain developers
 - 🥅 2022 Goals: Learn more about Rust, L2, Rollups, Blockchain Sharding. Release [Kagome](github.com/soramitsu/kagome)
 - ⚡ Fun fact: I can solve rubik's cube with closed eyes after memorizing it. Also I love travel and flying FPV drones
-<!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
+
 
 ### Connect with me:
 
@@ -25,7 +24,7 @@
 
 <img align="left" alt="Libp2p" width="26px" src="https://avatars.githubusercontent.com/u/14838238?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="cpp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/240px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
-    
+<br/>    
 
 ### 📺 Latest YouTube Videos
 
