@@ -23,8 +23,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Libp2p" width="26px" src="https://avatars.githubusercontent.com/u/14838238?s=200&v=4" style="padding-right:10px;" />]
-[<img align="left" alt="cpp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/240px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />]
+<img align="left" alt="Libp2p" width="26px" src="https://avatars.githubusercontent.com/u/14838238?s=200&v=4" style="padding-right:10px;" />
+<img align="left" alt="cpp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/240px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
 
 ### 📺 Latest YouTube Videos
 
