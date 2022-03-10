@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Rust 🤣
 - 👯 I’m looking to collaborate with other blockchain developers
 - 🥅 2022 Goals: Learn more about Rust, L2, Rollups, Blockchain Sharding. Release [Kagome](github.com/soramitsu/kagome)
-- ⚡ Fun fact: I can solve rubik's cube with closed eyes after memorizing it. Also I love travel and flying FPV drones in beatuful locations
+- ⚡ Fun fact: I can solve rubik's cube with closed eyes after memorizing it. Also I love travel and flying FPV drones
 <!-- - 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW) -->
 
 ### Connect with me:
