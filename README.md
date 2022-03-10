@@ -21,6 +21,9 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/kamil-salakhiev/)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kamil-salakhiev/)
 
+### Languages and Tools:
+
+[<img align="left" alt="Libp2p" width="26px" src="https://avatars.githubusercontent.com/u/14838238?s=200&v=4" style="padding-right:10px;" />][webdevplaylist]
 
 ### 📺 Latest YouTube Videos
 
