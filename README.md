@@ -6,8 +6,8 @@
 ## I'm a Blockchain Developer and Project Manager!!
 
 – ⚙ My main project now is [Kagome]([Kagome](github.com/soramitsu/kagome)) – C++ Polkadot Host implementation
-- 🌱 I’m currently learning Rust 🤣
-- 👯 I’m looking to collaborate with other blockchain developers
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate with other blockchain developers, especially in Polkadot domain
 - 🥅 2022 Goals: Learn more about Rust, L2, Rollups, Blockchain Sharding. Release [Kagome](github.com/soramitsu/kagome)
 - ⚡ Fun fact: I can solve rubik's cube with closed eyes after memorizing it. Also I love travel and flying FPV drones
 
