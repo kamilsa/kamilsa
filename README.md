@@ -6,7 +6,7 @@
 
 ## I'm a Blockchain Developer and Project Manager!!
 
-– ⚙ My main project now is [Kagome]([Kagome](github.com/soramitsu/kagome)) – C++ Polkadot Host implementation
+– ⚙ My main project now is [Kagome]([Kagome](github.com/soramitsu/kagome)) – C++ Polkadot Host implementation. Also I am one of the maintainers of [cpp-libp2p](https://github.com/libp2p/cpp-libp2p/) library
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate with other blockchain developers, especially in Polkadot domain
 - 🥅 2022 Goals: Learn more about Rust, L2, Rollups, Blockchain Sharding. Release [Kagome](github.com/soramitsu/kagome)
