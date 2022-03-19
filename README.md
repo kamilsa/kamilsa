@@ -42,5 +42,7 @@
 
 </details>
 
+<!--START_SECTION:activity-->
+
 [twitter]: https://twitter.com/kamil_abiy
 [linkedin]: https://www.linkedin.com/in/kamil-salakhiev/
