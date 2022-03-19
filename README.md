@@ -40,6 +40,7 @@
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40" /> </a>
   	<a href="https://libp2p.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/14838238?s=200&v=4" alt="Libp2p" width="40" height="40" /> </a>
+    <a href="https://polkadot.network/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25497083/148661419-419ad5b3-1b9f-480a-b723-3f292616730c.png" alt="Polkadot" width="40" height="40" /> </a>
 </p>
 
 
