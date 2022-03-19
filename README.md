@@ -22,11 +22,6 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Libp2p" width="26px" src="https://avatars.githubusercontent.com/u/14838238?s=200&v=4" style="padding-right:10px;" />
-<img align="left" alt="cpp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/240px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
-<br/>    
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>    
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
