@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1185](https://github.com/soramitsu/kagome/issues/1185) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-2. ❗️ Opened issue [#1181](https://github.com/soramitsu/kagome/issues/1181) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-3. ❗️ Opened issue [#1179](https://github.com/soramitsu/kagome/issues/1179) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-4. ❗️ Opened issue [#1178](https://github.com/soramitsu/kagome/issues/1178) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-5. 🗣 Commented on [#1101](https://github.com/soramitsu/kagome/issues/1101) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+1. 🎉 Merged PR [#6](https://github.com/soramitsu/scale-codec-cpp/pull/6) in [soramitsu/scale-codec-cpp](https://github.com/soramitsu/scale-codec-cpp)
+2. ❗️ Closed issue [#4](https://github.com/soramitsu/scale-codec-cpp/issues/4) in [soramitsu/scale-codec-cpp](https://github.com/soramitsu/scale-codec-cpp)
+3. ❗️ Opened issue [#1185](https://github.com/soramitsu/kagome/issues/1185) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+4. ❗️ Opened issue [#1181](https://github.com/soramitsu/kagome/issues/1181) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+5. ❗️ Opened issue [#1179](https://github.com/soramitsu/kagome/issues/1179) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
 <!--END_SECTION:activity-->
 
 </details>
