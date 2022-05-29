@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1212](https://github.com/soramitsu/kagome/issues/1212) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-2. 🗣 Commented on [#1202](https://github.com/soramitsu/kagome/issues/1202) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-3. ❗️ Opened issue [#1211](https://github.com/soramitsu/kagome/issues/1211) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-4. ❗️ Closed issue [#1197](https://github.com/soramitsu/kagome/issues/1197) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-5. 🗣 Commented on [#1197](https://github.com/soramitsu/kagome/issues/1197) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+1. ❗️ Opened issue [#1215](https://github.com/soramitsu/kagome/issues/1215) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+2. 💪 Opened PR [#78](https://github.com/substrate-developer-hub/awesome-substrate/pull/78) in [substrate-developer-hub/awesome-substrate](https://github.com/substrate-developer-hub/awesome-substrate)
+3. ❗️ Opened issue [#1212](https://github.com/soramitsu/kagome/issues/1212) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+4. 🗣 Commented on [#1202](https://github.com/soramitsu/kagome/issues/1202) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+5. ❗️ Opened issue [#1211](https://github.com/soramitsu/kagome/issues/1211) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
 <!--END_SECTION:activity-->
 
 </details>
