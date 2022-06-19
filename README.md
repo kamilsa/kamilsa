@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1225](https://github.com/soramitsu/kagome/issues/1225) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-2. ❗️ Opened issue [#1223](https://github.com/soramitsu/kagome/issues/1223) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-3. ❗️ Opened issue [#1221](https://github.com/soramitsu/kagome/issues/1221) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-4. 💪 Opened PR [#978](https://github.com/w3f/Grants-Program/pull/978) in [w3f/Grants-Program](https://github.com/w3f/Grants-Program)
-5. ❗️ Opened issue [#1218](https://github.com/soramitsu/kagome/issues/1218) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+1. 🎉 Merged PR [#1165](https://github.com/soramitsu/kagome/pull/1165) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+2. ❗️ Opened issue [#1243](https://github.com/soramitsu/kagome/issues/1243) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+3. 🗣 Commented on [#1218](https://github.com/soramitsu/kagome/issues/1218) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+4. ❗️ Closed issue [#1196](https://github.com/soramitsu/kagome/issues/1196) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+5. 🗣 Commented on [#942](https://github.com/soramitsu/kagome/issues/942) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
 <!--END_SECTION:activity-->
 
 </details>
