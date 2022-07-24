@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#778](https://github.com/soramitsu/kagome/issues/778) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-2. ❗️ Closed issue [#1225](https://github.com/soramitsu/kagome/issues/1225) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-3. ❗️ Closed issue [#1211](https://github.com/soramitsu/kagome/issues/1211) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-4. ❗️ Opened issue [#711](https://github.com/filecoin-project/devgrants/issues/711) in [filecoin-project/devgrants](https://github.com/filecoin-project/devgrants)
-5. 💪 Opened PR [#5](https://github.com/Alexey-N-Chernyshov/fvm-substrate-bridge-proposal/pull/5) in [Alexey-N-Chernyshov/fvm-substrate-bridge-proposal](https://github.com/Alexey-N-Chernyshov/fvm-substrate-bridge-proposal)
+1. ❗️ Closed issue [#1238](https://github.com/soramitsu/kagome/issues/1238) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+2. 🎉 Merged PR [#1253](https://github.com/soramitsu/kagome/pull/1253) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+3. ❗️ Opened issue [#1278](https://github.com/soramitsu/kagome/issues/1278) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+4. 🎉 Merged PR [#1276](https://github.com/soramitsu/kagome/pull/1276) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+5. ❗️ Closed issue [#778](https://github.com/soramitsu/kagome/issues/778) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
 <!--END_SECTION:activity-->
 
 </details>
