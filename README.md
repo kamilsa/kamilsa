@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1411](https://github.com/soramitsu/kagome/issues/1411) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-2. ❗️ Opened issue [#1409](https://github.com/soramitsu/kagome/issues/1409) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-3. 🗣 Commented on [#5480](https://github.com/aptos-labs/aptos-core/issues/5480) in [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)
-4. 💪 Opened PR [#5480](https://github.com/aptos-labs/aptos-core/pull/5480) in [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core)
-5. ❗️ Opened issue [#1396](https://github.com/soramitsu/kagome/issues/1396) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+1. 🗣 Commented on [#1418](https://github.com/soramitsu/kagome/issues/1418) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+2. ❌ Closed PR [#1070](https://github.com/soramitsu/kagome/pull/1070) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+3. 🗣 Commented on [#1416](https://github.com/soramitsu/kagome/issues/1416) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+4. ❗️ Opened issue [#1421](https://github.com/soramitsu/kagome/issues/1421) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+5. ❗️ Opened issue [#1419](https://github.com/soramitsu/kagome/issues/1419) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
 <!--END_SECTION:activity-->
 
 </details>
