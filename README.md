@@ -54,10 +54,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1453](https://github.com/soramitsu/kagome/issues/1453) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-2. 🗣 Commented on [#1455](https://github.com/soramitsu/kagome/issues/1455) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-3. 🗣 Commented on [#1453](https://github.com/soramitsu/kagome/issues/1453) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-4. ❗️ Opened issue [#1455](https://github.com/soramitsu/kagome/issues/1455) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-5. ❗️ Opened issue [#1454](https://github.com/soramitsu/kagome/issues/1454) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+2. 🗣 Commented on [#1453](https://github.com/soramitsu/kagome/issues/1453) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+3. 🗣 Commented on [#1455](https://github.com/soramitsu/kagome/issues/1455) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+4. 🗣 Commented on [#1453](https://github.com/soramitsu/kagome/issues/1453) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+5. ❗️ Opened issue [#1455](https://github.com/soramitsu/kagome/issues/1455) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
 <!--END_SECTION:activity-->
 
 </details>
