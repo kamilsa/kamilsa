@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#1324](https://github.com/soramitsu/kagome/issues/1324) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-2. 🗣 Commented on [#1389](https://github.com/soramitsu/kagome/issues/1389) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-3. 🗣 Commented on [#1431](https://github.com/soramitsu/kagome/issues/1431) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-4. 🗣 Commented on [#1394](https://github.com/soramitsu/kagome/issues/1394) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-5. ❗️ Opened issue [#1466](https://github.com/soramitsu/kagome/issues/1466) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+1. ❗️ Opened issue [#1472](https://github.com/soramitsu/kagome/issues/1472) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+2. ❗️ Reopened issue [#1324](https://github.com/soramitsu/kagome/issues/1324) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+3. 🗣 Commented on [#1389](https://github.com/soramitsu/kagome/issues/1389) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+4. 🗣 Commented on [#1431](https://github.com/soramitsu/kagome/issues/1431) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+5. 🗣 Commented on [#1394](https://github.com/soramitsu/kagome/issues/1394) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
 <!--END_SECTION:activity-->
 
 </details>
