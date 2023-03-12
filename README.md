@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1349](https://github.com/soramitsu/kagome/pull/1349) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-2. ❗️ Opened issue [#1506](https://github.com/soramitsu/kagome/issues/1506) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-3. ❗️ Opened issue [#1501](https://github.com/soramitsu/kagome/issues/1501) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-4. ❗️ Opened issue [#1500](https://github.com/soramitsu/kagome/issues/1500) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-5. ❗️ Opened issue [#1498](https://github.com/soramitsu/kagome/issues/1498) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+1. ❗️ Closed issue [#1500](https://github.com/soramitsu/kagome/issues/1500) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+2. ❗️ Closed issue [#1455](https://github.com/soramitsu/kagome/issues/1455) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+3. ❗️ Reopened issue [#1476](https://github.com/soramitsu/kagome/issues/1476) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+4. ❗️ Closed issue [#1476](https://github.com/soramitsu/kagome/issues/1476) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+5. ❗️ Closed issue [#1472](https://github.com/soramitsu/kagome/issues/1472) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
 <!--END_SECTION:activity-->
 
 </details>
