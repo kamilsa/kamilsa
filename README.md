@@ -53,7 +53,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1557](https://github.com/soramitsu/kagome/pull/1557) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+1. ❗️ Closed issue [#1498](https://github.com/soramitsu/kagome/issues/1498) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
 2. ❗️ Opened issue [#1558](https://github.com/soramitsu/kagome/issues/1558) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
 3. 💪 Opened PR [#1557](https://github.com/soramitsu/kagome/pull/1557) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
 4. ❗️ Opened issue [#1547](https://github.com/soramitsu/kagome/issues/1547) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
