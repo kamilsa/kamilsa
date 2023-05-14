@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1598](https://github.com/soramitsu/kagome/issues/1598) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-2. 💪 Opened PR [#1597](https://github.com/soramitsu/kagome/pull/1597) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-3. ❗️ Opened issue [#1596](https://github.com/soramitsu/kagome/issues/1596) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-4. ❗️ Opened issue [#1595](https://github.com/soramitsu/kagome/issues/1595) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-5. ❗️ Opened issue [#1594](https://github.com/soramitsu/kagome/issues/1594) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+1. ❗️ Opened issue [#1612](https://github.com/soramitsu/kagome/issues/1612) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+2. ❗️ Opened issue [#1611](https://github.com/soramitsu/kagome/issues/1611) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+3. ❗️ Opened issue [#1610](https://github.com/soramitsu/kagome/issues/1610) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+4. ❗️ Opened issue [#1609](https://github.com/soramitsu/kagome/issues/1609) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+5. ❗️ Opened issue [#1608](https://github.com/soramitsu/kagome/issues/1608) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
 <!--END_SECTION:activity-->
 
 </details>
