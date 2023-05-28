@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1623](https://github.com/soramitsu/kagome/issues/1623) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-2. ❗️ Opened issue [#1619](https://github.com/soramitsu/kagome/issues/1619) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-3. ❗️ Opened issue [#1615](https://github.com/soramitsu/kagome/issues/1615) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-4. 🗣 Commented on [#1037](https://github.com/paritytech/zombienet/issues/1037) in [paritytech/zombienet](https://github.com/paritytech/zombienet)
-5. ❗️ Opened issue [#1612](https://github.com/soramitsu/kagome/issues/1612) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+1. ❗️ Closed issue [#1198](https://github.com/soramitsu/kagome/issues/1198) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+2. ❗️ Closed issue [#1179](https://github.com/soramitsu/kagome/issues/1179) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+3. ❗️ Closed issue [#1218](https://github.com/soramitsu/kagome/issues/1218) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+4. ❗️ Closed issue [#1289](https://github.com/soramitsu/kagome/issues/1289) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+5. ❗️ Closed issue [#1506](https://github.com/soramitsu/kagome/issues/1506) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
 <!--END_SECTION:activity-->
 
 </details>
