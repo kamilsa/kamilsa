@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1662](https://github.com/soramitsu/kagome/issues/1662) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
-2. 🚀 Published release [cache-40b7581](https://github.com/cache-40b7581) in [soramitsu/hunter-binary-cache](https://github.com/soramitsu/hunter-binary-cache)
-3. 🚀 Published release [cache-bce2b40](https://github.com/cache-bce2b40) in [soramitsu/hunter-binary-cache](https://github.com/soramitsu/hunter-binary-cache)
-4. 🚀 Published release [cache-6afac82](https://github.com/cache-6afac82) in [soramitsu/hunter-binary-cache](https://github.com/soramitsu/hunter-binary-cache)
-5. 🚀 Published release [cache-653a7b0](https://github.com/cache-653a7b0) in [soramitsu/hunter-binary-cache](https://github.com/soramitsu/hunter-binary-cache)
+1. ❗ Opened issue [#1677](https://github.com/soramitsu/kagome/issues/1677) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
+2. 🚀 Published release [cache-a14046a](https://github.com/cache-a14046a) in [soramitsu/hunter-binary-cache](https://github.com/soramitsu/hunter-binary-cache)
+3. 🚀 Published release [cache-b32dd84](https://github.com/cache-b32dd84) in [soramitsu/hunter-binary-cache](https://github.com/soramitsu/hunter-binary-cache)
+4. 🚀 Published release [cache-759c453](https://github.com/cache-759c453) in [soramitsu/hunter-binary-cache](https://github.com/soramitsu/hunter-binary-cache)
+5. ❗ Opened issue [#1673](https://github.com/soramitsu/kagome/issues/1673) in [soramitsu/kagome](https://github.com/soramitsu/kagome)
 <!--END_SECTION:activity-->
 
 </details>
