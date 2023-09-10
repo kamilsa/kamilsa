@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [cache-1cb7716](https://github.com/soramitsu/hunter-binary-cache/releases/tag/cache-1cb7716) in [soramitsu/hunter-binary-cache](https://github.com/soramitsu/hunter-binary-cache)
-2. 🚀 Published release [cache-886f92e](https://github.com/soramitsu/hunter-binary-cache/releases/tag/cache-886f92e) in [soramitsu/hunter-binary-cache](https://github.com/soramitsu/hunter-binary-cache)
-3. 🚀 Published release [cache-368ed3f](https://github.com/soramitsu/hunter-binary-cache/releases/tag/cache-368ed3f) in [soramitsu/hunter-binary-cache](https://github.com/soramitsu/hunter-binary-cache)
-4. 🚀 Published release [cache-7fe73ce](https://github.com/soramitsu/hunter-binary-cache/releases/tag/cache-7fe73ce) in [soramitsu/hunter-binary-cache](https://github.com/soramitsu/hunter-binary-cache)
-5. 🚀 Published release [cache-de0e9ec](https://github.com/soramitsu/hunter-binary-cache/releases/tag/cache-de0e9ec) in [soramitsu/hunter-binary-cache](https://github.com/soramitsu/hunter-binary-cache)
+1. 🚀 Published release [cache-a2f1619](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-a2f1619) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+2. 🚀 Published release [cache-2ea6324](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-2ea6324) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+3. 🚀 Published release [cache-ff6fa46](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-ff6fa46) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+4. 🚀 Published release [cache-92a9c71](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-92a9c71) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+5. 🚀 Published release [cache-f3d3e29](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-f3d3e29) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
 <!--END_SECTION:activity-->
 
 </details>
