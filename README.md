@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [cache-a2f1619](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-a2f1619) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-2. 🚀 Published release [cache-2ea6324](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-2ea6324) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-3. 🚀 Published release [cache-ff6fa46](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-ff6fa46) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-4. 🚀 Published release [cache-92a9c71](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-92a9c71) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-5. 🚀 Published release [cache-f3d3e29](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-f3d3e29) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+1. ❗ Opened issue [#1805](https://github.com/qdrvm/kagome/issues/1805) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+2. 🚀 Published release [cache-a2f1619](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-a2f1619) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+3. 🚀 Published release [cache-2ea6324](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-2ea6324) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+4. 🚀 Published release [cache-ff6fa46](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-ff6fa46) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+5. 🚀 Published release [cache-92a9c71](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-92a9c71) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
 <!--END_SECTION:activity-->
 
 </details>
