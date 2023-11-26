@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1869](https://github.com/qdrvm/kagome/issues/1869) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-2. 🔒 Closed issue [#1844](https://github.com/qdrvm/kagome/issues/1844) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-3. 💪 Opened PR [#1868](https://github.com/qdrvm/kagome/pull/1868) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-4. 🎉 Merged PR [#1859](https://github.com/qdrvm/kagome/pull/1859) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-5. 🔒 Closed issue [#1707](https://github.com/qdrvm/kagome/issues/1707) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+1. 🗣 Commented on [#1814](https://github.com/qdrvm/kagome/issues/1814#issuecomment-1822732166) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+2. ❗ Opened issue [#1875](https://github.com/qdrvm/kagome/issues/1875) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+3. ❗ Opened issue [#1869](https://github.com/qdrvm/kagome/issues/1869) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+4. 🔒 Closed issue [#1844](https://github.com/qdrvm/kagome/issues/1844) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+5. 💪 Opened PR [#1868](https://github.com/qdrvm/kagome/pull/1868) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
 <!--END_SECTION:activity-->
 
 </details>
