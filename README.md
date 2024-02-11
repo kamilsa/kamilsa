@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1975](https://github.com/qdrvm/kagome/pull/1975) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-2. 💪 Opened PR [#1975](https://github.com/qdrvm/kagome/pull/1975) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-3. 🚀 Published release [cache-4ac4e86](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-4ac4e86) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-4. 🚀 Published release [cache-2af1aba](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-2af1aba) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-5. 🚀 Published release [cache-8d90f81](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-8d90f81) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+1. 🚀 Published release [cache-8f72161](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-8f72161) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+2. 🚀 Published release [cache-a69a329](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-a69a329) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+3. 🗣 Commented on [#1885](https://github.com/qdrvm/kagome/issues/1885#issuecomment-1934003055) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+4. 🔒 Closed issue [#1814](https://github.com/qdrvm/kagome/issues/1814) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+5. 🔒 Closed issue [#1958](https://github.com/qdrvm/kagome/issues/1958) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
 <!--END_SECTION:activity-->
 
 </details>
