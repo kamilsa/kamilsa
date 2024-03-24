@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2005](https://github.com/qdrvm/kagome/issues/2005) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-2. 🔒 Closed issue [#1988](https://github.com/qdrvm/kagome/issues/1988) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-3. ❗ Opened issue [#2003](https://github.com/qdrvm/kagome/issues/2003) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-4. 🚀 Published release [cache-49b5a42](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-49b5a42) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-5. 🚀 Published release [cache-5c5d19a](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-5c5d19a) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+1. ❗ Opened issue [#2015](https://github.com/qdrvm/kagome/issues/2015) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+2. 🔒 Closed issue [#1885](https://github.com/qdrvm/kagome/issues/1885) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+3. 🎉 Merged PR [#2010](https://github.com/qdrvm/kagome/pull/2010) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+4. 💪 Opened PR [#2010](https://github.com/qdrvm/kagome/pull/2010) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+5. ❌ Closed PR [#2](https://github.com/qdrvm/soramitsu-libsecp256k1/pull/2) in [qdrvm/soramitsu-libsecp256k1](https://github.com/qdrvm/soramitsu-libsecp256k1)
 <!--END_SECTION:activity-->
 
 </details>
