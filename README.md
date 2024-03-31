@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2015](https://github.com/qdrvm/kagome/issues/2015) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-2. 🔒 Closed issue [#1885](https://github.com/qdrvm/kagome/issues/1885) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-3. 🎉 Merged PR [#2010](https://github.com/qdrvm/kagome/pull/2010) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-4. 💪 Opened PR [#2010](https://github.com/qdrvm/kagome/pull/2010) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-5. ❌ Closed PR [#2](https://github.com/qdrvm/soramitsu-libsecp256k1/pull/2) in [qdrvm/soramitsu-libsecp256k1](https://github.com/qdrvm/soramitsu-libsecp256k1)
+1. 💪 Opened PR [#101](https://github.com/paseo-network/paseo-action-submission/pull/101) in [paseo-network/paseo-action-submission](https://github.com/paseo-network/paseo-action-submission)
+2. ❗ Opened issue [#2019](https://github.com/qdrvm/kagome/issues/2019) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+3. 💪 Opened PR [#2018](https://github.com/qdrvm/kagome/pull/2018) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+4. ❗ Opened issue [#2015](https://github.com/qdrvm/kagome/issues/2015) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+5. 🔒 Closed issue [#1885](https://github.com/qdrvm/kagome/issues/1885) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
 <!--END_SECTION:activity-->
 
 </details>
