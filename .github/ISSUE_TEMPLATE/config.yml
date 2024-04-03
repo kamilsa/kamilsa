@@ -1,4 +1,11 @@
 blank_issues_enabled: false
+contact_links:
+  - name: GitHub Community Support
+    url: https://github.community/
+    about: Please ask and answer questions here.
+  - name: GitHub Security Bug Bounty
+    url: https://bounty.github.com/
+    about: Please report security vulnerabilities here.
 issue_templates:
   - name: Bug report
     description: Create a bug report to help us improve the project
@@ -6,3 +13,4 @@ issue_templates:
   - name: Feature request
     description: Suggest a new feature for the KAGOME project
     template: feature_request.yml
+    
