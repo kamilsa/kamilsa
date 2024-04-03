@@ -22,20 +22,20 @@ body:
       label: Component
       description: Select the component that this feature request is related to.
       options:
-        - "Grandpa"
-        - "Babe"
-        - "Parachains validation"
-        - "Runtime"
-        - "Host functions"
-        - "Network"
-        - "RPC"
-        - "Storage"
-        - "Transaction pool"
-        - "Off-chain workers"
-        - "Consensus"
-        - "Utilities"
-        - "Other"
-      default: "Other"
+        - Grandpa
+        - Babe
+        - Parachains validation
+        - Runtime
+        - Host functions
+        - Network
+        - RPC
+        - Storage
+        - Transaction pool
+        - Off-chain workers
+        - Consensus
+        - Utilities
+        - Other
+      default: 0
 
   - type: textarea
     id: feature-description
