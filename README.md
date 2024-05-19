@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2029](https://github.com/qdrvm/kagome/pull/2029) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-2. 🔒 Closed issue [#2046](https://github.com/qdrvm/kagome/issues/2046) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-3. 🔒 Closed issue [#2027](https://github.com/qdrvm/kagome/issues/2027) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-4. 🗣 Commented on [#1919](https://github.com/qdrvm/kagome/issues/1919#issuecomment-2090192193) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-5. 🔒 Closed issue [#1919](https://github.com/qdrvm/kagome/issues/1919) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+1. 🎉 Merged PR [#2094](https://github.com/qdrvm/kagome/pull/2094) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+2. 🚀 Published release [cache-6357225](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-6357225) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+3. 💪 Opened PR [#2](https://github.com/qdrvm/WasmEdge/pull/2) in [qdrvm/WasmEdge](https://github.com/qdrvm/WasmEdge)
+4. ❌ Closed PR [#3407](https://github.com/WasmEdge/WasmEdge/pull/3407) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
+5. 💪 Opened PR [#3407](https://github.com/WasmEdge/WasmEdge/pull/3407) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
 <!--END_SECTION:activity-->
 
 </details>
