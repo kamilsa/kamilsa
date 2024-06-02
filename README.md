@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [cache-4476852](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-4476852) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-2. 🚀 Published release [cache-bc8bde6](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-bc8bde6) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-3. 🗣 Commented on [#4035](https://github.com/paritytech/polkadot-sdk/pull/4035#issuecomment-2126633086) in [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk)
-4. ❗ Opened issue [#2112](https://github.com/qdrvm/kagome/issues/2112) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-5. ❗ Opened issue [#2109](https://github.com/qdrvm/kagome/issues/2109) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+1. 🎉 Merged PR [#2117](https://github.com/qdrvm/kagome/pull/2117) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+2. 💪 Opened PR [#2117](https://github.com/qdrvm/kagome/pull/2117) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+3. 🚀 Published release [cache-02747fc](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-02747fc) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+4. 🚀 Published release [cache-ae69d6b](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-ae69d6b) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+5. 🚀 Published release [cache-b3b53b1](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-b3b53b1) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
 <!--END_SECTION:activity-->
 
 </details>
