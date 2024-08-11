@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2164](https://github.com/qdrvm/kagome/issues/2164) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-2. 🎉 Merged PR [#258](https://github.com/libp2p/cpp-libp2p/pull/258) in [libp2p/cpp-libp2p](https://github.com/libp2p/cpp-libp2p)
-3. ❗ Opened issue [#19](https://github.com/w3f-webops/graypaper-website/issues/19) in [w3f-webops/graypaper-website](https://github.com/w3f-webops/graypaper-website)
-4. ❗ Opened issue [#2161](https://github.com/qdrvm/kagome/issues/2161) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-5. 🗣 Commented on [#2123](https://github.com/qdrvm/kagome/issues/2123#issuecomment-2250040843) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+1. 🔒 Closed issue [#2170](https://github.com/qdrvm/kagome/issues/2170) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+2. 🗣 Commented on [#2131](https://github.com/qdrvm/kagome/issues/2131#issuecomment-2275519874) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+3. 🎉 Merged PR [#2173](https://github.com/qdrvm/kagome/pull/2173) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+4. ❗ Opened issue [#2175](https://github.com/qdrvm/kagome/issues/2175) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+5. 💪 Opened PR [#2173](https://github.com/qdrvm/kagome/pull/2173) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
 <!--END_SECTION:activity-->
 
 </details>
