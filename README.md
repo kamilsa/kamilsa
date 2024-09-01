@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#263](https://github.com/libp2p/cpp-libp2p/issues/263) in [libp2p/cpp-libp2p](https://github.com/libp2p/cpp-libp2p)
-2. 🔒 Closed issue [#2183](https://github.com/qdrvm/kagome/issues/2183) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-3. 🎉 Merged PR [#2188](https://github.com/qdrvm/kagome/pull/2188) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-4. 🔒 Closed issue [#1950](https://github.com/qdrvm/kagome/issues/1950) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-5. 🔒 Closed issue [#1953](https://github.com/qdrvm/kagome/issues/1953) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+1. ❗ Opened issue [#2201](https://github.com/qdrvm/kagome/issues/2201) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+2. 🔓 Reopened issue [#2123](https://github.com/qdrvm/kagome/issues/2123) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+3. ❗ Opened issue [#2197](https://github.com/qdrvm/kagome/issues/2197) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+4. ❌ Closed PR [#2120](https://github.com/qdrvm/kagome/pull/2120) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+5. 🎉 Merged PR [#2191](https://github.com/qdrvm/kagome/pull/2191) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
 <!--END_SECTION:activity-->
 
 </details>
