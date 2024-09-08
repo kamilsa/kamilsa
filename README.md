@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2201](https://github.com/qdrvm/kagome/issues/2201) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-2. 🔓 Reopened issue [#2123](https://github.com/qdrvm/kagome/issues/2123) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-3. ❗ Opened issue [#2197](https://github.com/qdrvm/kagome/issues/2197) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-4. ❌ Closed PR [#2120](https://github.com/qdrvm/kagome/pull/2120) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-5. 🎉 Merged PR [#2191](https://github.com/qdrvm/kagome/pull/2191) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+1. ❗ Opened issue [#5617](https://github.com/paritytech/polkadot-sdk/issues/5617) in [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk)
+2. 🗣 Commented on [#264](https://github.com/libp2p/cpp-libp2p/issues/264#issuecomment-2328782218) in [libp2p/cpp-libp2p](https://github.com/libp2p/cpp-libp2p)
+3. 🗣 Commented on [#264](https://github.com/libp2p/cpp-libp2p/issues/264#issuecomment-2325673602) in [libp2p/cpp-libp2p](https://github.com/libp2p/cpp-libp2p)
+4. ❗ Opened issue [#2205](https://github.com/qdrvm/kagome/issues/2205) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+5. 🗣 Commented on [#1691](https://github.com/qdrvm/kagome/issues/1691#issuecomment-2323940171) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
 <!--END_SECTION:activity-->
 
 </details>
