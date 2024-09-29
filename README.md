@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [cache-d50fc59](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-d50fc59) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-2. 🚀 Published release [cache-d502348](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-d502348) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-3. 🎉 Merged PR [#2216](https://github.com/qdrvm/kagome/pull/2216) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-4. 💪 Opened PR [#2216](https://github.com/qdrvm/kagome/pull/2216) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-5. ❗ Opened issue [#2215](https://github.com/qdrvm/kagome/issues/2215) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+1. 🚀 Published release [cache-fa41713](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-fa41713) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+2. ❗ Opened issue [#2221](https://github.com/qdrvm/kagome/issues/2221) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+3. ❌ Closed PR [#67](https://github.com/libp2p/cpp-libp2p/pull/67) in [libp2p/cpp-libp2p](https://github.com/libp2p/cpp-libp2p)
+4. ❌ Closed PR [#224](https://github.com/libp2p/cpp-libp2p/pull/224) in [libp2p/cpp-libp2p](https://github.com/libp2p/cpp-libp2p)
+5. ❗ Opened issue [#7](https://github.com/qdrvm/cpp-jam/issues/7) in [qdrvm/cpp-jam](https://github.com/qdrvm/cpp-jam)
 <!--END_SECTION:activity-->
 
 </details>
