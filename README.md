@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#263](https://github.com/libp2p/cpp-libp2p/issues/263#issuecomment-2419375861) in [libp2p/cpp-libp2p](https://github.com/libp2p/cpp-libp2p)
-2. 🔒 Closed issue [#263](https://github.com/libp2p/cpp-libp2p/issues/263) in [libp2p/cpp-libp2p](https://github.com/libp2p/cpp-libp2p)
-3. 🔒 Closed issue [#2092](https://github.com/qdrvm/kagome/issues/2092) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-4. 🗣 Commented on [#2092](https://github.com/qdrvm/kagome/issues/2092#issuecomment-2419371274) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-5. 🎉 Merged PR [#2244](https://github.com/qdrvm/kagome/pull/2244) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+1. 🚀 Published release [cache-e2475a2](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-e2475a2) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+2. 🚀 Published release [cache-9ac1408](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-9ac1408) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+3. 🗣 Commented on [#263](https://github.com/libp2p/cpp-libp2p/issues/263#issuecomment-2419375861) in [libp2p/cpp-libp2p](https://github.com/libp2p/cpp-libp2p)
+4. 🔒 Closed issue [#263](https://github.com/libp2p/cpp-libp2p/issues/263) in [libp2p/cpp-libp2p](https://github.com/libp2p/cpp-libp2p)
+5. 🔒 Closed issue [#2092](https://github.com/qdrvm/kagome/issues/2092) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
 <!--END_SECTION:activity-->
 
 </details>
