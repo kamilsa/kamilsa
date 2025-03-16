@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [cache-a0fffbc](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-a0fffbc) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-2. 💪 Opened PR [#2395](https://github.com/qdrvm/kagome/pull/2395) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-3. 💪 Opened PR [#2394](https://github.com/qdrvm/kagome/pull/2394) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
-4. 🚀 Published release [cache-2734503](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-2734503) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-5. 🚀 Published release [v1.0.0-rc2](https://github.com/qdrvm/kagome/releases/tag/v1.0.0-rc2) in [qdrvm/kagome](https://github.com/qdrvm/kagome)
+1. 🚀 Published release [cache-2aa0b75](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-2aa0b75) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+2. 🚀 Published release [cache-9880b60](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-9880b60) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+3. 🚀 Published release [cache-339cea4](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-339cea4) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+4. 🚀 Published release [cache-baf1b2b](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-baf1b2b) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+5. 🚀 Published release [cache-80ed02c](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-80ed02c) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
 <!--END_SECTION:activity-->
 
 </details>
