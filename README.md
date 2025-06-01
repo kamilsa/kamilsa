@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [cache-0ff7960](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-0ff7960) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-2. 🚀 Published release [cache-f0ac15e](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-f0ac15e) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-3. 🚀 Published release [cache-531319b](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-531319b) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-4. 🚀 Published release [cache-82d14c5](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-82d14c5) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-5. 🚀 Published release [cache-19cbc33](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-19cbc33) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+1. 🚀 Published release [cache-87688a2](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-87688a2) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+2. 🚀 Published release [cache-bd31b76](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-bd31b76) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+3. 🚀 Published release [cache-cb8b7aa](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-cb8b7aa) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+4. 🚀 Published release [cache-979f8b5](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-979f8b5) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+5. 🚀 Published release [cache-4aa2543](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-4aa2543) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
 <!--END_SECTION:activity-->
 
 </details>
