@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [cache-87688a2](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-87688a2) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-2. 🚀 Published release [cache-bd31b76](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-bd31b76) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-3. 🚀 Published release [cache-cb8b7aa](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-cb8b7aa) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-4. 🚀 Published release [cache-979f8b5](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-979f8b5) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
-5. 🚀 Published release [cache-4aa2543](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-4aa2543) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+1. 🚀 Published release [cache-3963bba](https://github.com/qdrvm/hunter-binary-cache/releases/tag/cache-3963bba) in [qdrvm/hunter-binary-cache](https://github.com/qdrvm/hunter-binary-cache)
+2. 💪 Opened PR [#311](https://github.com/libp2p/cpp-libp2p/pull/311) in [libp2p/cpp-libp2p](https://github.com/libp2p/cpp-libp2p)
+3. ❌ Closed PR [#28](https://github.com/qdrvm/cpp-jam/pull/28) in [qdrvm/cpp-jam](https://github.com/qdrvm/cpp-jam)
+4. 💪 Opened PR [#28](https://github.com/qdrvm/cpp-jam/pull/28) in [qdrvm/cpp-jam](https://github.com/qdrvm/cpp-jam)
+5. ❗ Opened issue [#27](https://github.com/qdrvm/cpp-jam/issues/27) in [qdrvm/cpp-jam](https://github.com/qdrvm/cpp-jam)
 <!--END_SECTION:activity-->
 
 </details>
