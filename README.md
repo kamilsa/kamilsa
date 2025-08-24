@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7](https://github.com/qdrvm/leanp2p/issues/7) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
-2. 🎉 Merged PR [#5](https://github.com/qdrvm/leanp2p/pull/5) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
-3. 💪 Opened PR [#5](https://github.com/qdrvm/leanp2p/pull/5) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
-4. 🎉 Merged PR [#4](https://github.com/qdrvm/leanp2p/pull/4) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
-5. 🎉 Merged PR [#2](https://github.com/qdrvm/leanp2p/pull/2) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
+1. 🚀 Published release [report-1 release](https://github.com/qdrvm/beamsim/releases/tag/report-1) in [qdrvm/beamsim](https://github.com/qdrvm/beamsim)
+2. 🎉 Merged PR [#29](https://github.com/qdrvm/beamsim/pull/29) in [qdrvm/beamsim](https://github.com/qdrvm/beamsim)
+3. 💪 Opened PR [#29](https://github.com/qdrvm/beamsim/pull/29) in [qdrvm/beamsim](https://github.com/qdrvm/beamsim)
+4. ❗ Opened issue [#7](https://github.com/qdrvm/leanp2p/issues/7) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
+5. 🎉 Merged PR [#5](https://github.com/qdrvm/leanp2p/pull/5) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
 <!--END_SECTION:activity-->
 
 </details>
