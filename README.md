@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/qdrvm/beamsim/pull/30) in [qdrvm/beamsim](https://github.com/qdrvm/beamsim)
-2. 🗣 Commented on [#1528](https://github.com/AstarNetwork/Astar/issues/1528#issuecomment-3227918655) in [AstarNetwork/Astar](https://github.com/AstarNetwork/Astar)
-3. 🚀 Published release [report-1 release](https://github.com/qdrvm/beamsim/releases/tag/report-1) in [qdrvm/beamsim](https://github.com/qdrvm/beamsim)
-4. 🎉 Merged PR [#29](https://github.com/qdrvm/beamsim/pull/29) in [qdrvm/beamsim](https://github.com/qdrvm/beamsim)
-5. 💪 Opened PR [#29](https://github.com/qdrvm/beamsim/pull/29) in [qdrvm/beamsim](https://github.com/qdrvm/beamsim)
+1. 🎉 Merged PR [#9](https://github.com/qdrvm/qlean-mini/pull/9) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+2. 🎉 Merged PR [#12](https://github.com/qdrvm/leanp2p/pull/12) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
+3. 🔒 Closed issue [#7](https://github.com/qdrvm/leanp2p/issues/7) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
+4. 🚀 Published release [report-2](https://github.com/qdrvm/beamsim/releases/tag/report-2) in [qdrvm/beamsim](https://github.com/qdrvm/beamsim)
+5. 🎉 Merged PR [#31](https://github.com/qdrvm/beamsim/pull/31) in [qdrvm/beamsim](https://github.com/qdrvm/beamsim)
 <!--END_SECTION:activity-->
 
 </details>
