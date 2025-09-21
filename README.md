@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/qdrvm/qlean-mini/pull/9) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-2. 🎉 Merged PR [#12](https://github.com/qdrvm/leanp2p/pull/12) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
-3. 🔒 Closed issue [#7](https://github.com/qdrvm/leanp2p/issues/7) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
-4. 🚀 Published release [report-2](https://github.com/qdrvm/beamsim/releases/tag/report-2) in [qdrvm/beamsim](https://github.com/qdrvm/beamsim)
-5. 🎉 Merged PR [#31](https://github.com/qdrvm/beamsim/pull/31) in [qdrvm/beamsim](https://github.com/qdrvm/beamsim)
+1. ❗ Opened issue [#16](https://github.com/qdrvm/qlean-mini/issues/16) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+2. ❗ Opened issue [#15](https://github.com/qdrvm/qlean-mini/issues/15) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+3. ❗ Opened issue [#14](https://github.com/qdrvm/qlean-mini/issues/14) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+4. 💪 Opened PR [#13](https://github.com/qdrvm/qlean-mini/pull/13) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+5. 💪 Opened PR [#3](https://github.com/qdrvm/polkadot-sdk-reports/pull/3) in [qdrvm/polkadot-sdk-reports](https://github.com/qdrvm/polkadot-sdk-reports)
 <!--END_SECTION:activity-->
 
 </details>
