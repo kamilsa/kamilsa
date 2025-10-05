@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/qdrvm/qlean-mini/issues/16) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-2. ❗ Opened issue [#15](https://github.com/qdrvm/qlean-mini/issues/15) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-3. ❗ Opened issue [#14](https://github.com/qdrvm/qlean-mini/issues/14) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-4. 💪 Opened PR [#13](https://github.com/qdrvm/qlean-mini/pull/13) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-5. 💪 Opened PR [#3](https://github.com/qdrvm/polkadot-sdk-reports/pull/3) in [qdrvm/polkadot-sdk-reports](https://github.com/qdrvm/polkadot-sdk-reports)
+1. 💪 Opened PR [#26](https://github.com/qdrvm/qlean-mini/pull/26) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+2. 💪 Opened PR [#4](https://github.com/qdrvm/polkadot-sdk-reports/pull/4) in [qdrvm/polkadot-sdk-reports](https://github.com/qdrvm/polkadot-sdk-reports)
+3. 🔒 Closed issue [#16](https://github.com/qdrvm/qlean-mini/issues/16) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+4. 🎉 Merged PR [#20](https://github.com/qdrvm/qlean-mini/pull/20) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+5. 🎉 Merged PR [#3](https://github.com/qdrvm/polkadot-sdk-reports/pull/3) in [qdrvm/polkadot-sdk-reports](https://github.com/qdrvm/polkadot-sdk-reports)
 <!--END_SECTION:activity-->
 
 </details>
