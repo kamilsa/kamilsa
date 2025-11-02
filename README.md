@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](undefined) in [qdrvm/polkadot-sdk-reports](https://github.com/qdrvm/polkadot-sdk-reports)
-2. 🗣 Commented on [#1763](https://github.com/ethereum/pm/issues/1763#issuecomment-3404863829) in [ethereum/pm](https://github.com/ethereum/pm)
-3. 💪 Opened PR [#13](undefined) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
-4. 💪 Opened PR [#26](undefined) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-5. 💪 Opened PR [#4](undefined) in [qdrvm/polkadot-sdk-reports](https://github.com/qdrvm/polkadot-sdk-reports)
+1. 💪 Opened PR [#6](undefined) in [qdrvm/polkadot-sdk-reports](https://github.com/qdrvm/polkadot-sdk-reports)
+2. ❗ Opened issue [#29](https://github.com/qdrvm/qlean-mini/issues/29) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+3.  Assigned issue [#29](https://github.com/qdrvm/qlean-mini/issues/29) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+4. 🔒 Closed issue [#14](https://github.com/qdrvm/qlean-mini/issues/14) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+5. 💪 Opened PR [#5](undefined) in [qdrvm/polkadot-sdk-reports](https://github.com/qdrvm/polkadot-sdk-reports)
 <!--END_SECTION:activity-->
 
 </details>
