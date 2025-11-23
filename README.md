@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](undefined) in [qdrvm/polkadot-sdk-reports](https://github.com/qdrvm/polkadot-sdk-reports)
-2. 🗣 Commented on [#10055](https://github.com/paritytech/polkadot-sdk/pull/10055#issuecomment-3521452828) in [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk)
-3. 💪 Opened PR [#14](undefined) in [qdrvm/qdrvm-crates](https://github.com/qdrvm/qdrvm-crates)
-4. 💪 Opened PR [#1](undefined) in [qdrvm/c-hash-sig](https://github.com/qdrvm/c-hash-sig)
-5. 💪 Opened PR [#13](undefined) in [qdrvm/qdrvm-crates](https://github.com/qdrvm/qdrvm-crates)
+1. ❌ Closed PR [#13](undefined) in [qdrvm/qdrvm-crates](https://github.com/qdrvm/qdrvm-crates)
+2. 💪 Opened PR [#34](undefined) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+3. ❌ Closed PR [#32](undefined) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+4. 💪 Opened PR [#33](undefined) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+5. 💪 Opened PR [#32](undefined) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
 <!--END_SECTION:activity-->
 
 </details>
