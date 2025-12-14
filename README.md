@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](undefined) in [blockblaz/lean-quickstart](https://github.com/blockblaz/lean-quickstart)
-2. ❌ Merged PR [#39](undefined) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-3. 💪 Opened PR [#39](undefined) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-4. ❌ Merged PR [#38](undefined) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-5. 💪 Opened PR [#38](undefined) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+1. 💪 Opened PR [#70](undefined) in [blockblaz/lean-quickstart](https://github.com/blockblaz/lean-quickstart)
+2. 💪 Opened PR [#9](undefined) in [qdrvm/polkadot-sdk-reports](https://github.com/qdrvm/polkadot-sdk-reports)
+3. ❌ Merged PR [#62](undefined) in [blockblaz/lean-quickstart](https://github.com/blockblaz/lean-quickstart)
+4. 💪 Opened PR [#62](undefined) in [blockblaz/lean-quickstart](https://github.com/blockblaz/lean-quickstart)
+5. ❌ Merged PR [#39](undefined) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
 <!--END_SECTION:activity-->
 
 </details>
