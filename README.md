@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1847](https://github.com/ethereum/pm/issues/1847#issuecomment-3664787741) in [ethereum/pm](https://github.com/ethereum/pm)
-2. ❌ Merged PR [#70](undefined) in [blockblaz/lean-quickstart](https://github.com/blockblaz/lean-quickstart)
-3.  Assigned issue [#45](https://github.com/qdrvm/qlean-mini/issues/45) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-4. ❗ Opened issue [#45](https://github.com/qdrvm/qlean-mini/issues/45) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-5. 🔒 Closed issue [#29](https://github.com/qdrvm/qlean-mini/issues/29) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+1. 💪 Opened PR [#49](undefined) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+2. ❌ Closed PR [#20](undefined) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
+3. ❌ Merged PR [#19](undefined) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
+4. 💪 Opened PR [#19](undefined) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
+5. 💪 Opened PR [#18](undefined) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
 <!--END_SECTION:activity-->
 
 </details>
