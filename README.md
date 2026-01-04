@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#49](undefined) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-2. ❌ Closed PR [#20](undefined) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
-3. ❌ Merged PR [#19](undefined) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
-4. 💪 Opened PR [#19](undefined) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
-5. 💪 Opened PR [#18](undefined) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
+1. ❌ Closed PR [#33](https://github.com/qdrvm/qlean-mini/pull/33) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+2. 💪 Opened PR [#49](https://github.com/qdrvm/qlean-mini/pull/49) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+3. ❌ Closed PR [#20](https://github.com/qdrvm/leanp2p/pull/20) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
+4. 🎉 Merged PR [#19](https://github.com/qdrvm/leanp2p/pull/19) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
+5. 💪 Opened PR [#19](https://github.com/qdrvm/leanp2p/pull/19) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
 <!--END_SECTION:activity-->
 
 </details>
