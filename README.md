@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#33](https://github.com/qdrvm/qlean-mini/pull/33) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-2. 💪 Opened PR [#49](https://github.com/qdrvm/qlean-mini/pull/49) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-3. ❌ Closed PR [#20](https://github.com/qdrvm/leanp2p/pull/20) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
-4. 🎉 Merged PR [#19](https://github.com/qdrvm/leanp2p/pull/19) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
-5. 💪 Opened PR [#19](https://github.com/qdrvm/leanp2p/pull/19) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
+1. 🗣 Commented on [#56](https://github.com/leanEthereum/pm/pull/56#issuecomment-3728154304) in [leanEthereum/pm](https://github.com/leanEthereum/pm)
+2. 💪 Opened PR [#10](https://github.com/qdrvm/polkadot-sdk-reports/pull/10) in [qdrvm/polkadot-sdk-reports](https://github.com/qdrvm/polkadot-sdk-reports)
+3. ❌ Closed PR [#33](https://github.com/qdrvm/qlean-mini/pull/33) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+4. 💪 Opened PR [#49](https://github.com/qdrvm/qlean-mini/pull/49) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+5. ❌ Closed PR [#20](https://github.com/qdrvm/leanp2p/pull/20) in [qdrvm/leanp2p](https://github.com/qdrvm/leanp2p)
 <!--END_SECTION:activity-->
 
 </details>
