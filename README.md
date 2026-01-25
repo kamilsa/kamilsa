@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/qdrvm/qlean-mini/pull/52) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-2. 💪 Opened PR [#52](https://github.com/qdrvm/qlean-mini/pull/52) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-3. 🎉 Merged PR [#58](https://github.com/leanEthereum/pm/pull/58) in [leanEthereum/pm](https://github.com/leanEthereum/pm)
-4. 🗣 Commented on [#1866](https://github.com/ethereum/pm/issues/1866#issuecomment-3749579750) in [ethereum/pm](https://github.com/ethereum/pm)
-5. 💪 Opened PR [#58](https://github.com/leanEthereum/pm/pull/58) in [leanEthereum/pm](https://github.com/leanEthereum/pm)
+1. 🎉 Merged PR [#62](https://github.com/qdrvm/qlean-mini/pull/62) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+2. 💪 Opened PR [#62](https://github.com/qdrvm/qlean-mini/pull/62) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+3. 🎉 Merged PR [#56](https://github.com/qdrvm/qlean-mini/pull/56) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+4. ℹ️ Labeled issue [#59](https://github.com/qdrvm/qlean-mini/issues/59) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+5. ❗ Opened issue [#59](https://github.com/qdrvm/qlean-mini/issues/59) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
 <!--END_SECTION:activity-->
 
 </details>
