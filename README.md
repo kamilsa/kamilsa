@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10022](https://github.com/paritytech/polkadot-sdk/pull/10022#issuecomment-3811291494) in [paritytech/polkadot-sdk](https://github.com/paritytech/polkadot-sdk)
-2. ❗ Opened issue [#64](https://github.com/qdrvm/qlean-mini/issues/64) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-3. 🎉 Merged PR [#62](https://github.com/qdrvm/qlean-mini/pull/62) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-4. 💪 Opened PR [#62](https://github.com/qdrvm/qlean-mini/pull/62) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-5. 🎉 Merged PR [#56](https://github.com/qdrvm/qlean-mini/pull/56) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+1. 🎉 Merged PR [#371](https://github.com/leanEthereum/leanSpec/pull/371) in [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
+2. 💪 Opened PR [#371](https://github.com/leanEthereum/leanSpec/pull/371) in [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
+3. 🎉 Merged PR [#67](https://github.com/qdrvm/qlean-mini/pull/67) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+4. 🎉 Merged PR [#282](https://github.com/leanEthereum/leanSpec/pull/282) in [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
+5. 💪 Opened PR [#67](https://github.com/qdrvm/qlean-mini/pull/67) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
 <!--END_SECTION:activity-->
 
 </details>
