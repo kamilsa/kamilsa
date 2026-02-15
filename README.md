@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#371](https://github.com/leanEthereum/leanSpec/pull/371) in [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
-2. 💪 Opened PR [#371](https://github.com/leanEthereum/leanSpec/pull/371) in [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
-3. 🎉 Merged PR [#67](https://github.com/qdrvm/qlean-mini/pull/67) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-4. 🎉 Merged PR [#282](https://github.com/leanEthereum/leanSpec/pull/282) in [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
-5. 💪 Opened PR [#67](https://github.com/qdrvm/qlean-mini/pull/67) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
+1. 🎉 Merged PR [#385](https://github.com/leanEthereum/leanSpec/pull/385) in [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
+2. ❌ Closed PR [#392](https://github.com/leanEthereum/leanSpec/pull/392) in [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
+3. 💪 Opened PR [#392](https://github.com/leanEthereum/leanSpec/pull/392) in [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
+4. 💪 Opened PR [#385](https://github.com/leanEthereum/leanSpec/pull/385) in [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
+5. ℹ️ Assigned issue [#359](https://github.com/leanEthereum/leanSpec/issues/359) in [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
 <!--END_SECTION:activity-->
 
 </details>
