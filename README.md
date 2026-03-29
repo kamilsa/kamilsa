@@ -53,10 +53,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#774](https://github.com/ethereum/execution-apis/pull/774) in [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
-2. 🎉 Merged PR [#1](https://github.com/kamilsa/netprivmap/pull/1) in [kamilsa/netprivmap](https://github.com/kamilsa/netprivmap)
-3. 💪 Opened PR [#1](https://github.com/kamilsa/netprivmap/pull/1) in [kamilsa/netprivmap](https://github.com/kamilsa/netprivmap)
-4. ❌ Closed PR [#392](https://github.com/leanEthereum/leanSpec/pull/392) in [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
+1. 💪 Opened PR [#11444](https://github.com/ethereum/EIPs/pull/11444) in [ethereum/EIPs](https://github.com/ethereum/EIPs)
+2. 💪 Opened PR [#774](https://github.com/ethereum/execution-apis/pull/774) in [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+3. 🎉 Merged PR [#1](https://github.com/kamilsa/netprivmap/pull/1) in [kamilsa/netprivmap](https://github.com/kamilsa/netprivmap)
+4. 💪 Opened PR [#1](https://github.com/kamilsa/netprivmap/pull/1) in [kamilsa/netprivmap](https://github.com/kamilsa/netprivmap)
 5. 💪 Opened PR [#392](https://github.com/leanEthereum/leanSpec/pull/392) in [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
 <!--END_SECTION:activity-->
 
