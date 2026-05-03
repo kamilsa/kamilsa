@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#875](https://github.com/Gitlawb/openclaude/issues/875) in [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
-2. 💪 Opened PR [#774](https://github.com/ethereum/execution-apis/pull/774) in [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
-3. 🎉 Merged PR [#1](https://github.com/kamilsa/netprivmap/pull/1) in [kamilsa/netprivmap](https://github.com/kamilsa/netprivmap)
-4. 💪 Opened PR [#1](https://github.com/kamilsa/netprivmap/pull/1) in [kamilsa/netprivmap](https://github.com/kamilsa/netprivmap)
-5. 💪 Opened PR [#392](https://github.com/leanEthereum/leanSpec/pull/392) in [leanEthereum/leanSpec](https://github.com/leanEthereum/leanSpec)
+1. 🎉 Merged PR [#774](https://github.com/ethereum/execution-apis/pull/774) in [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+2. 🗣 Commented on [#774](https://github.com/ethereum/execution-apis/pull/774#issuecomment-4352564020) in [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+3. 🎉 Merged PR [#22](https://github.com/raulk/sparse-blobpool/pull/22) in [raulk/sparse-blobpool](https://github.com/raulk/sparse-blobpool)
+4. 💪 Opened PR [#22](https://github.com/raulk/sparse-blobpool/pull/22) in [raulk/sparse-blobpool](https://github.com/raulk/sparse-blobpool)
+5. ❗ Opened issue [#875](https://github.com/Gitlawb/openclaude/issues/875) in [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
 <!--END_SECTION:activity-->
 
 </details>
