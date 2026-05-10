@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#774](https://github.com/ethereum/execution-apis/pull/774) in [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
-2. 🗣 Commented on [#774](https://github.com/ethereum/execution-apis/pull/774#issuecomment-4352564020) in [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
-3. 🎉 Merged PR [#22](https://github.com/raulk/sparse-blobpool/pull/22) in [raulk/sparse-blobpool](https://github.com/raulk/sparse-blobpool)
-4. 💪 Opened PR [#22](https://github.com/raulk/sparse-blobpool/pull/22) in [raulk/sparse-blobpool](https://github.com/raulk/sparse-blobpool)
-5. ❗ Opened issue [#875](https://github.com/Gitlawb/openclaude/issues/875) in [Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)
+1. 🗣 Commented on [#2033](https://github.com/ethereum/pm/issues/2033#issuecomment-4395749928) in [ethereum/pm](https://github.com/ethereum/pm)
+2. 🎉 Merged PR [#774](https://github.com/ethereum/execution-apis/pull/774) in [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+3. 🗣 Commented on [#774](https://github.com/ethereum/execution-apis/pull/774#issuecomment-4352564020) in [ethereum/execution-apis](https://github.com/ethereum/execution-apis)
+4. 🎉 Merged PR [#22](https://github.com/raulk/sparse-blobpool/pull/22) in [raulk/sparse-blobpool](https://github.com/raulk/sparse-blobpool)
+5. 💪 Opened PR [#22](https://github.com/raulk/sparse-blobpool/pull/22) in [raulk/sparse-blobpool](https://github.com/raulk/sparse-blobpool)
 <!--END_SECTION:activity-->
 
 </details>
