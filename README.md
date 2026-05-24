@@ -53,11 +53,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2051](https://github.com/ethereum/pm/issues/2051) in [ethereum/pm](https://github.com/ethereum/pm)
-2. ❗ Opened issue [#2051](https://github.com/ethereum/pm/issues/2051) in [ethereum/pm](https://github.com/ethereum/pm)
-3. 🎉 Merged PR [#1](https://github.com/kamilsa/leansim/pull/1) in [kamilsa/leansim](https://github.com/kamilsa/leansim)
-4. 💪 Opened PR [#1](https://github.com/kamilsa/leansim/pull/1) in [kamilsa/leansim](https://github.com/kamilsa/leansim)
-5. 🗣 Commented on [#2033](https://github.com/ethereum/pm/issues/2033#issuecomment-4395749928) in [ethereum/pm](https://github.com/ethereum/pm)
+1. 🎉 Merged PR [#11444](https://github.com/ethereum/EIPs/pull/11444) in [ethereum/EIPs](https://github.com/ethereum/EIPs)
+2. ℹ️ Labeled issue [#2051](https://github.com/ethereum/pm/issues/2051) in [ethereum/pm](https://github.com/ethereum/pm)
+3. ❗ Opened issue [#2051](https://github.com/ethereum/pm/issues/2051) in [ethereum/pm](https://github.com/ethereum/pm)
+4. 🎉 Merged PR [#1](https://github.com/kamilsa/leansim/pull/1) in [kamilsa/leansim](https://github.com/kamilsa/leansim)
+5. 💪 Opened PR [#1](https://github.com/kamilsa/leansim/pull/1) in [kamilsa/leansim](https://github.com/kamilsa/leansim)
 <!--END_SECTION:activity-->
 
 </details>
