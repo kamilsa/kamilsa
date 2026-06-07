@@ -43,11 +43,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/kamilsa/shadow-arm/pull/1) in [kamilsa/shadow-arm](https://github.com/kamilsa/shadow-arm)
-2. 💪 Opened PR [#79](https://github.com/qdrvm/qlean-mini/pull/79) in [qdrvm/qlean-mini](https://github.com/qdrvm/qlean-mini)
-3. 🎉 Merged PR [#11444](https://github.com/ethereum/EIPs/pull/11444) in [ethereum/EIPs](https://github.com/ethereum/EIPs)
-4. ℹ️ Labeled issue [#2051](https://github.com/ethereum/pm/issues/2051) in [ethereum/pm](https://github.com/ethereum/pm)
-5. ❗ Opened issue [#2051](https://github.com/ethereum/pm/issues/2051) in [ethereum/pm](https://github.com/ethereum/pm)
+1. 💪 Opened PR [#23](https://github.com/ethereum/beacon-metrics/pull/23) in [ethereum/beacon-metrics](https://github.com/ethereum/beacon-metrics)
+2. 🎉 Merged PR [#1](https://github.com/kamilsa/shadow-arm/pull/1) in [kamilsa/shadow-arm](https://github.com/kamilsa/shadow-arm)
+3. ℹ️ Labeled issue [#2099](https://github.com/ethereum/pm/issues/2099) in [ethereum/pm](https://github.com/ethereum/pm)
+4. ❗ Opened issue [#2099](https://github.com/ethereum/pm/issues/2099) in [ethereum/pm](https://github.com/ethereum/pm)
+5. 💪 Opened PR [#1](https://github.com/kamilsa/shadow-arm/pull/1) in [kamilsa/shadow-arm](https://github.com/kamilsa/shadow-arm)
 <!--END_SECTION:activity-->
 
 </details>
