@@ -43,11 +43,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2161](https://github.com/ethereum/pm/issues/2161) in [ethereum/pm](https://github.com/ethereum/pm)
-2. ❗ Opened issue [#2161](https://github.com/ethereum/pm/issues/2161) in [ethereum/pm](https://github.com/ethereum/pm)
-3. 🎉 Merged PR [#6](https://github.com/kamilsa/blobsim/pull/6) in [kamilsa/blobsim](https://github.com/kamilsa/blobsim)
-4. 💪 Opened PR [#6](https://github.com/kamilsa/blobsim/pull/6) in [kamilsa/blobsim](https://github.com/kamilsa/blobsim)
-5. 🎉 Merged PR [#5](https://github.com/kamilsa/blobsim/pull/5) in [kamilsa/blobsim](https://github.com/kamilsa/blobsim)
+1. 🎉 Merged PR [#6568](https://github.com/libp2p/rust-libp2p/pull/6568) in [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)
+2. ℹ️ Labeled issue [#2175](https://github.com/ethereum/pm/issues/2175) in [ethereum/pm](https://github.com/ethereum/pm)
+3. ❗ Opened issue [#2175](https://github.com/ethereum/pm/issues/2175) in [ethereum/pm](https://github.com/ethereum/pm)
+4. 💪 Opened PR [#6568](https://github.com/libp2p/rust-libp2p/pull/6568) in [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)
+5. ℹ️ Labeled issue [#2161](https://github.com/ethereum/pm/issues/2161) in [ethereum/pm](https://github.com/ethereum/pm)
 <!--END_SECTION:activity-->
 
 </details>
