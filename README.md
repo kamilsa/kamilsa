@@ -43,11 +43,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6568](https://github.com/libp2p/rust-libp2p/pull/6568) in [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)
-2. ℹ️ Labeled issue [#2175](https://github.com/ethereum/pm/issues/2175) in [ethereum/pm](https://github.com/ethereum/pm)
-3. ❗ Opened issue [#2175](https://github.com/ethereum/pm/issues/2175) in [ethereum/pm](https://github.com/ethereum/pm)
-4. 💪 Opened PR [#6568](https://github.com/libp2p/rust-libp2p/pull/6568) in [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)
-5. ℹ️ Labeled issue [#2161](https://github.com/ethereum/pm/issues/2161) in [ethereum/pm](https://github.com/ethereum/pm)
+1. 🗣 Commented on [#2177](https://github.com/ethereum/pm/issues/2177#issuecomment-5182864350) in [ethereum/pm](https://github.com/ethereum/pm)
+2. 💪 Opened PR [#12072](https://github.com/ethereum/EIPs/pull/12072) in [ethereum/EIPs](https://github.com/ethereum/EIPs)
+3. 🎉 Merged PR [#6568](https://github.com/libp2p/rust-libp2p/pull/6568) in [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)
+4. ℹ️ Labeled issue [#2175](https://github.com/ethereum/pm/issues/2175) in [ethereum/pm](https://github.com/ethereum/pm)
+5. ❗ Opened issue [#2175](https://github.com/ethereum/pm/issues/2175) in [ethereum/pm](https://github.com/ethereum/pm)
 <!--END_SECTION:activity-->
 
 </details>
