@@ -43,11 +43,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2189](https://github.com/ethereum/pm/issues/2189) in [ethereum/pm](https://github.com/ethereum/pm)
-2. ❗ Opened issue [#2189](https://github.com/ethereum/pm/issues/2189) in [ethereum/pm](https://github.com/ethereum/pm)
-3. 🗣 Commented on [#2177](https://github.com/ethereum/pm/issues/2177#issuecomment-5182864350) in [ethereum/pm](https://github.com/ethereum/pm)
-4. 💪 Opened PR [#12072](https://github.com/ethereum/EIPs/pull/12072) in [ethereum/EIPs](https://github.com/ethereum/EIPs)
-5. 🎉 Merged PR [#6568](https://github.com/libp2p/rust-libp2p/pull/6568) in [libp2p/rust-libp2p](https://github.com/libp2p/rust-libp2p)
+1. ❗ Opened issue [#11624](https://github.com/mudler/LocalAI/issues/11624) in [mudler/LocalAI](https://github.com/mudler/LocalAI)
+2. ❗ Opened issue [#11623](https://github.com/mudler/LocalAI/issues/11623) in [mudler/LocalAI](https://github.com/mudler/LocalAI)
+3. ℹ️ Labeled issue [#2189](https://github.com/ethereum/pm/issues/2189) in [ethereum/pm](https://github.com/ethereum/pm)
+4. ❗ Opened issue [#2189](https://github.com/ethereum/pm/issues/2189) in [ethereum/pm](https://github.com/ethereum/pm)
+5. 🗣 Commented on [#2177](https://github.com/ethereum/pm/issues/2177#issuecomment-5182864350) in [ethereum/pm](https://github.com/ethereum/pm)
 <!--END_SECTION:activity-->
 
 </details>
