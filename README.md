@@ -43,11 +43,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#2203](https://github.com/ethereum/pm/issues/2203) in [ethereum/pm](https://github.com/ethereum/pm)
-2. ❗ Opened issue [#2203](https://github.com/ethereum/pm/issues/2203) in [ethereum/pm](https://github.com/ethereum/pm)
-3. ❗ Opened issue [#11624](https://github.com/mudler/LocalAI/issues/11624) in [mudler/LocalAI](https://github.com/mudler/LocalAI)
-4. ❗ Opened issue [#11623](https://github.com/mudler/LocalAI/issues/11623) in [mudler/LocalAI](https://github.com/mudler/LocalAI)
-5. ℹ️ Labeled issue [#2189](https://github.com/ethereum/pm/issues/2189) in [ethereum/pm](https://github.com/ethereum/pm)
+1. 💪 Opened PR [#12299](https://github.com/ethereum/EIPs/pull/12299) in [ethereum/EIPs](https://github.com/ethereum/EIPs)
+2. ℹ️ Labeled issue [#2203](https://github.com/ethereum/pm/issues/2203) in [ethereum/pm](https://github.com/ethereum/pm)
+3. ❗ Opened issue [#2203](https://github.com/ethereum/pm/issues/2203) in [ethereum/pm](https://github.com/ethereum/pm)
+4. ❗ Opened issue [#11624](https://github.com/mudler/LocalAI/issues/11624) in [mudler/LocalAI](https://github.com/mudler/LocalAI)
+5. ❗ Opened issue [#11623](https://github.com/mudler/LocalAI/issues/11623) in [mudler/LocalAI](https://github.com/mudler/LocalAI)
 <!--END_SECTION:activity-->
 
 </details>
