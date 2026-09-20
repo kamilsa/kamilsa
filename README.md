@@ -43,11 +43,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2211](https://github.com/ethereum/pm/issues/2211#issuecomment-5617969898) in [ethereum/pm](https://github.com/ethereum/pm)
-2. 🗣 Commented on [#2211](https://github.com/ethereum/pm/issues/2211#issuecomment-5601739597) in [ethereum/pm](https://github.com/ethereum/pm)
-3. ❗ Opened issue [#2214](https://github.com/ethereum/pm/issues/2214) in [ethereum/pm](https://github.com/ethereum/pm)
-4. 💪 Opened PR [#12299](https://github.com/ethereum/EIPs/pull/12299) in [ethereum/EIPs](https://github.com/ethereum/EIPs)
-5. ℹ️ Labeled issue [#2203](https://github.com/ethereum/pm/issues/2203) in [ethereum/pm](https://github.com/ethereum/pm)
+1. 🗣 Commented on [#2222](https://github.com/ethereum/pm/issues/2222#issuecomment-5675689781) in [ethereum/pm](https://github.com/ethereum/pm)
+2. 🎉 Merged PR [#2](https://github.com/kamilsa/leansim/pull/2) in [kamilsa/leansim](https://github.com/kamilsa/leansim)
+3. 💪 Opened PR [#2](https://github.com/kamilsa/leansim/pull/2) in [kamilsa/leansim](https://github.com/kamilsa/leansim)
+4. 🗣 Commented on [#2](https://github.com/kamilsa/lean-shadow-fuzzer/pull/2#issuecomment-5662494972) in [kamilsa/lean-shadow-fuzzer](https://github.com/kamilsa/lean-shadow-fuzzer)
+5. ❌ Closed PR [#2](https://github.com/kamilsa/lean-shadow-fuzzer/pull/2) in [kamilsa/lean-shadow-fuzzer](https://github.com/kamilsa/lean-shadow-fuzzer)
 <!--END_SECTION:activity-->
 
 </details>
