@@ -43,11 +43,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12072](https://github.com/ethereum/EIPs/pull/12072#issuecomment-5757125260) in [ethereum/EIPs](https://github.com/ethereum/EIPs)
-2. ❌ Closed PR [#12072](https://github.com/ethereum/EIPs/pull/12072) in [ethereum/EIPs](https://github.com/ethereum/EIPs)
-3. 🗣 Commented on [#2222](https://github.com/ethereum/pm/issues/2222#issuecomment-5675689781) in [ethereum/pm](https://github.com/ethereum/pm)
-4. 🎉 Merged PR [#2](https://github.com/kamilsa/leansim/pull/2) in [kamilsa/leansim](https://github.com/kamilsa/leansim)
-5. 💪 Opened PR [#2](https://github.com/kamilsa/leansim/pull/2) in [kamilsa/leansim](https://github.com/kamilsa/leansim)
+1. 🎉 Merged PR [#12299](https://github.com/ethereum/EIPs/pull/12299) in [ethereum/EIPs](https://github.com/ethereum/EIPs)
+2. 🗣 Commented on [#12299](https://github.com/ethereum/EIPs/pull/12299#issuecomment-5889634858) in [ethereum/EIPs](https://github.com/ethereum/EIPs)
+3. 🗣 Commented on [#12072](https://github.com/ethereum/EIPs/pull/12072#issuecomment-5757125260) in [ethereum/EIPs](https://github.com/ethereum/EIPs)
+4. ❌ Closed PR [#12072](https://github.com/ethereum/EIPs/pull/12072) in [ethereum/EIPs](https://github.com/ethereum/EIPs)
+5. 🗣 Commented on [#2222](https://github.com/ethereum/pm/issues/2222#issuecomment-5675689781) in [ethereum/pm](https://github.com/ethereum/pm)
 <!--END_SECTION:activity-->
 
 </details>
